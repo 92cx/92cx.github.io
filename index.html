@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>阿晨 | Biu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <link rel="icon" href="assets/img/icon.png">
+</head>
+<body>
+	<video id="background-video" autoplay loop muted x-data="{loaded:true}" x-init="$el.onloadeddata=()=>(loaded=true);" :style="loaded?'opacity:1;':''">
+	  <source src="https://ichen.ink/-/video/mp4/1678698183314_6Y8pZ.mp4" type="video/mp4" /></video>
+<main id="rin-main">
+	<div id="rin-headimg"></div> 
+    <div class="rin-name">阿&nbsp;&nbsp;辰</div>
+	<hr width="160">
+<p id="hitokoto">
+  <a id="hitokoto_text">:D 获取中...</a>
+</p>
+    <div class="rin-tr"></div>
+    <a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://ichen.ink/-/">应用</a>
+	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://bing.ichen.ink/">壁纸</a>
+	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://ichen.ink/demo/">DEMO</a>
+	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://chat.ichen.ink/">CHAT</a>
+	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://look.ichen.ink/">影视</a>
+
+</main>
+<footer id="rin-footer">
+      <div class="copy"> © 2023 <a href="https://ichen.ink" target="_blank">I Chen</a></div>
+</footer>
+</body>
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {const hitokoto = document.querySelector('#hitokoto_text')
+      hitokoto.innerText = data.hitokoto})
+    .catch(console.error)
+</script>
+</html>
