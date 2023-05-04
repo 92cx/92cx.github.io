@@ -2,39 +2,266 @@
 <html lang="zh-CN">
 <head>
     <meta charset="utf-8">
-    <title>阿辰 | Biu</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="assets/css/index.css">
-    <link rel="icon" href="assets/img/icon.png">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>阿晨算法解析系统</title>
+		<meta name="description" content=阿晨</meta>
+		<meta name="keywords" content=阿晨</meta>
+		<meta http-equiv="Cache-Control" content="no-transform">
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta http-equiv="Cache-Control" content="no-siteapp">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="apple-mobile-web-app-title" content=阿晨</meta>
+		<link rel="shortcut icon" href="static/logo.png" type="image/x-icon">
+		<meta itemprop="image" content="static/logo.png"><!-- 分享显示的缩略图-->
+		<link rel="stylesheet" href="static/css/base.css">
+		<link rel="stylesheet" href="static/css/index.css" />
+		<script src="static/js/core.js"></script>
+		<script language="Javascript">
+			document.oncontextmenu = new Function("event.returnValue=false");
+			document.onselectstart = new Function("event.returnValue=false");
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="video-bg">
+				<video muted data-autoplay loop="loop" autoplay="autoplay" src="static/video/b834f7ab1c4a47dcc8411dce5c1efd88_preview.mp4"
+					class="video-tvc" id="video-tvc" data-object-fit>抱歉，您的浏览器不支持内嵌视频</video>
+			</div>
+
+			<div class="content">
+				<header class="header claerFloat">
+					<div class="header-left">
+					</div>
+			 <div class="header-right">
+			 <ul class="header-links">
+			 <li class="header-links-item"><a href="https://ichenc.github.io/demo/fby.html">发布页</a></li>
+			 <li class="header-links-item"><a href="https://greasyfork.org/zh-CN/scripts/464362-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90-%E5%85%8D%E7%99%BB%E5%BD%95%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0">浏览器插件</a></li>
+			 <li class="header-links-item"><a href="https://www.123pan.com/s/j20ZVv-grwnh.html">AndroidAPP</a></li>
+			 <li class="header-links-item"><a href="about.html">关于本站</a></li>	
+			</ul>			
+
+					</div>
+				</header>
+
+				<footer class="footer">
+					<nav class="nav-warpper">
+						<span> </span><a href=""></a>
+					</nav>
+					<!-- 弹窗代码开始1 -->
+					<!--<div class="web_notice" style="position: fixed;top: 0;left: 0;width:100%;height: 100%;background: rgba(0,0,0,1);z-index: 99999;">-->
+					<!--<div style="position: fixed;top: 50%;left: 50%;height:300px;width:700px;background-image:url(/template/mizhi-four/static/images/gongji.png);;transform: translate(-50%, -50%);border-radius: 40px;">-->
+					<!--<a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px; margin: 0 auto;margin-top:270px;border-radius: 32px;width: 50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</a></div></div>-->
+					<!-- 弹窗代码结束1 -->
+					<!-- 弹窗代码开始2 -->\
+					<!-- 
+<html>
+ 
+<head>
+  <script>
+    function GetCookie(name) {
+      var arg = name + "=";
+      var alen = arg.length;
+      var clen = document.cookie.length;
+      var i = 0;
+      while (i < clen) {
+        var j = i + alen;
+        if (document.cookie.substring(i, j) == arg)
+          return getCookieVal(j);
+        i = document.cookie.indexOf(" ", i) + 1;
+        if (i == 0) break;
+      }
+      return null;
+    }
+ 
+    function SetCookie(name, value) {
+      var argv = SetCookie.arguments;
+      var argc = SetCookie.arguments.length;
+      var expires = (argc > 2) ? argv[2] : null;
+      var path = (argc > 3) ? argv[3] : null;
+      var domain = (argc > 4) ? argv[4] : null;
+      var secure = (argc > 5) ? argv[5] : false;
+      document.cookie = name + "=" + escape(value) +
+        ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+        ((path == null) ? "" : ("; path=" + path)) +
+        ((domain == null) ? "" : ("; domain=" + domain)) +
+        ((secure == true) ? "; secure" : "");
+    }
+ 
+    function DeleteCookie(name) {
+      var exp = new Date();
+      exp.setTime(exp.getTime() - 1);
+      // This cookie is history
+      var cval = 0;
+      document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+    }
+ 
+    //设置cookies时间,自己根据情况设置。
+    var expDays = 1;
+    var exp = new Date();
+    exp.setTime(exp.getTime() + (expDays * 24 * 60 * 60 * 1000));
+ 
+    function amt() {
+      var count = GetCookie('count');
+      count = Math.max(1, Number(count) + 1);
+      SetCookie('count', count, exp);
+      return count;
+    }
+ 
+    function getCookieVal(offset) {
+      var endstr = document.cookie.indexOf(";", offset);
+      if (endstr == -1) endstr = document.cookie.length;
+      return unescape(document.cookie.substring(offset, endstr));
+    }
+    // IE： 设置为浏览器首页示例
+    function sethome() {
+      var link = document.links[0];
+      if (!link) return;
+      link.style.behavior = 'url(#default#homepage)';
+      if (link.setHomePage) link.setHomePage('https://th.hnslg.com.cn');
+    }
+ 
+    if (amt() == 1) {
+      alert('仅供内部交流研究，请勿用于任何商业用途！鑫总云海二开多功能版解析计费系统v4.5');
+      sethome();
+    }
+  </script>
 </head>
-<body>
-	<video id="background-video" autoplay loop muted x-data="{loaded:true}" x-init="$el.onloadeddata=()=>(loaded=true);" :style="loaded?'opacity:1;':''">
-	  <source src="https://ichenc.github.io/-/video/xx/1651636047187_lRada.mp4" type="video/mp4" /></video>
-	  <!-- <source src="https://ichenc.github.io/-/video/xx/1607089862000_9Amso.mp4" type="video/mp4" /></video> -->
-<main id="rin-main">
-	<div id="rin-headimg"></div> 
-    <div class="rin-name">阿&nbsp;&nbsp;辰</div>
-	<hr width="160">
-<p id="hitokoto">
-  <a id="hitokoto_text">:D 获取中...</a>
-</p>
-    <div class="rin-tr"></div>
-    <a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://chat.ichen.ink/">CHAT</a>
-	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://bing.ichen.ink/">壁纸</a>
-    <a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://ichen.ink/-/">应用</a>
-	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://look.ichen.ink/">影视</a>
-	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://nav.ichen.ink/">导航</a>
-	<a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="https://ichen.ink/demo/">DEMO</a>
-</main>
-<footer id="rin-footer">
-      <div class="copy"> © 2023 <a href="https://icp.gov.moe/?keyword=20230202" target="_blank">萌ICP备20230202号</a>
-</footer>
-</body>
-<script>
-  fetch('https://v1.hitokoto.cn')
-    .then(response => response.json())
-    .then(data => {const hitokoto = document.querySelector('#hitokoto_text')
-      hitokoto.innerText = data.hitokoto})
-    .catch(console.error)
-</script>
+ 
+<body></body>
+ 
+</html> -->
+
+
+					<!-- 弹窗代码结束 -->
+					<!--底部开始-->
+					<footer class="footer">
+						<nav class="nav-warpper">
+							<span> </span><a href=""></a>
+						</nav>
+						<div class="feedback-info">
+							<nav class="nav-warpper"><span>|</span> <a href="//www.iqiyi.com" target="_blank"
+									rel="nofollow">爱奇艺</a> <span>|</span><a href="//v.qq.com" target="_blank"
+									rel="nofollow">腾讯视频</a> <span>|</span> <a href="//www.youku.com"
+									rel="nofollow">优酷视频</a> <span>|</span> <a href="//www.le.com"
+									rel="nofollow">乐视TV</a> <span>|</span> <a href="//www.mgtv.com"
+									rel="nofollow">芒果视频</a> <span>|</span> <a href="//m.tv.sohu.com"
+									rel="nofollow">搜狐视频</a> <span>|</span><a href="//www.pptv.com"
+									rel="nofollow">PPTV</a><span>|</span><a href="//www.bilibili.com"
+									rel="nofollow">哔哩哔哩</a><span>|</span></nav>
+
+							<br>
+							<!--底部一言-->
+							<div class="word" id="hitokoto">
+								<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer>
+								</script>
+							</div>
+						</div>
+					</footer>
+			</div>
+		</div>
+		</div>
+		</div>
+		<script type="text/javascript">
+			(function() {
+				$(function() {
+					$('#copyYear').text((new Date).getFullYear());
+				})
+			})();
+		</script>
+	</body>
+	<script>
+		var video = $('#video-tvc')[0];
+		$('.unmute').click(function() {
+			if ($(this).hasClass('mute')) {
+				video.muted = true;
+			} else {
+				video.muted = false;
+			}
+			$(this).toggleClass('mute')
+		})
+	</script>
+	<!--设备判断-->
+	<script type="text/javascript">
+		function browserRedirect() {
+			var sUserAgent = navigator.userAgent.toLowerCase();
+			var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid = sUserAgent.match(/android/i) == "android";
+			var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+			var iurl = window.location.href;
+			var surl = iurl.substring(iurl.lastIndexOf('/'));
+
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+				window.location.href = '/wap';
+			} else {
+
+			}
+		}
+		browserRedirect();
+	</script>
+	<!--安全1开始
+<script type="text/javascript">
+        window.onload = function(){
+            document.onkeydown = function (){
+                var e = window.event || arguments[0];
+                //F12
+                if(e.keyCode == 123){
+                    return false;
+                //Ctrl+Shift+I
+                }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)){
+                    return false;
+                //Shift+F10
+                }else if((e.shiftKey) && (e.keyCode == 121)){
+                    return false;
+                //Ctrl+U
+                }else if((e.ctrlKey) && (e.keyCode == 85)){
+                    return false;
+                }
+            };
+            document.oncontextmenu = function (){
+                return false;
+            }
+        }
+    </script>-->
+	<!--安全2开始
+<script type="text/javascript">
+		//判断F12审查元素
+function fuckyou() {
+	window.close(); //关闭当前窗口(防抽)
+	window.location = "https://th.hnslg.com.cn"; //将当前窗口跳转置空白页
+}
+
+function ck() {
+	console.profile();
+	console.profileEnd();
+	//我们判断一下profiles里面有没有东西，如果有，肯定有人按F12了，没错！！
+	if(console.clear) {
+		console.clear()
+	};
+	if(typeof console.profiles == "object") {
+		return console.profiles.length > 0;
+	}
+}
+
+function hehe() {
+	if((window.console && (console.firebug || console.table && /firebug/i.test(console.table()))) || (typeof opera == 'object' && typeof opera.postError == 'function' && console.profile.length > 0)) {
+		fuckyou();
+	}
+	if(typeof console.profiles == "object" && console.profiles.length > 0) {
+		fuckyou();
+	}
+}
+hehe();
+window.onresize = function() {
+	if((window.outerHeight - window.innerHeight) > 200)
+		//判断当前窗口内页高度和窗口高度，如果差值大于200，那么呵呵
+		fuckyou();
+}
+</script>-->
+
 </html>
