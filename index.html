@@ -5,8 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>阿晨算法解析系统</title>
-		<meta name="description" content=阿晨</meta>
-		<meta name="keywords" content=阿晨</meta>
+		<meta name="description" content=阿晨 </meta>
+		<meta name="keywords" content=阿晨 </meta>
 		<meta http-equiv="Cache-Control" content="no-transform">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<meta http-equiv="Cache-Control" content="no-siteapp">
@@ -26,114 +26,48 @@
 		<div class="container">
 			<div class="video-bg">
 				<video muted data-autoplay loop="loop" autoplay="autoplay"
-					src="https://ichen.ink/-/assets/video/x/b834f7ab1c4a47dcc8411dce5c1efd88_preview.mp4" class="video-tvc" id="video-tvc"
-					data-object-fit>抱歉，您的浏览器不支持内嵌视频</video>
+					src="https://ichen.ink/-/assets/video/x/b834f7ab1c4a47dcc8411dce5c1efd88_preview.mp4"
+					class="video-tvc" id="video-tvc" data-object-fit>抱歉，您的浏览器不支持内嵌视频</video>
 			</div>
-
 			<div class="content">
 				<header class="header claerFloat">
 					<div class="header-left">
+						<a href="/"><img src="assets/img/logo.png" alt="logo" style="height: 60px;"></a>
 					</div>
 					<div class="header-right">
 						<ul class="header-links">
+							<li class="header-links-item"><a href="assets/about/jx.html">一键解析</a></li>
 							<li class="header-links-item"><a href="http://ichen.ink/vip">Web解析</a></li>
-							<li class="header-links-item"><a href="ichen.ink/jx.html">收藏夹解析</a></li>
-							<li class="header-links-item"><a href="">Android TV</a></li>
-							<li class="header-links-item"><a href="">电视TV</a></li>
+			 				<li class="header-links-item"><a href="/">浏览器脚本</a></li>
+				 			<li class="header-links-item"><a href="">Android TV</a></li>
+				 			<li class="header-links-item"><a href="">电视TV</a></li>
 							<li class="header-links-item"><a href="http://ichen.ink/-/">更多</a></li>
-							<li class="header-links-item"><a href="about.html">关于本站</a></li>
+							<li class="header-links-item"><a href="assets/about/about.html">关于本站</a></li>
 						</ul>
 
 					</div>
 				</header>
+				<div class="middle clearFloat">
+					<div class="slogan">
+						<img src="assets/img/slogan.png" alt="slogan">
+					</div>
+					<div class="btn-list">
+						<a class="btn-primary icon-QRcode">
+							<img src="assets/img/v.jpg" alt="qrcode">
+						</a>
+						<div class="btn-primary">
+							<a class="btn-hover icon-qq btn-link"
+								href="https://wpa.qq.com/msgrd?v=3&amp;uin=80611129&amp;site=qq&amp;menu=yes&amp;jumpflag=1"
+								target="_blank"></a>
+						</div>
+						<div class="btn-primary">
+							<a class="btn-hover icon-emails btn-link" href="mailto:ichenc@163.com" target="_blank"></a>
+						</div>
+					</div>
+				</div>
 
-				<footer class="footer">
-					<nav class="nav-warpper">
-						<span> </span><a href=""></a>
-					</nav>
-					<!-- 弹窗代码开始1 -->
-					<!--<div class="web_notice" style="position: fixed;top: 0;left: 0;width:100%;height: 100%;background: rgba(0,0,0,1);z-index: 99999;">-->
-					<!--<div style="position: fixed;top: 50%;left: 50%;height:300px;width:700px;background-image:url(/template/mizhi-four/static/images/gongji.png);;transform: translate(-50%, -50%);border-radius: 40px;">-->
-					<!--<a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px; margin: 0 auto;margin-top:270px;border-radius: 32px;width: 50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</a></div></div>-->
-					<!-- 弹窗代码结束1 -->
-					<!-- 弹窗代码开始2 -->\
-					<!-- 
-<html>
- 
-<head>
-  <script>
-    function GetCookie(name) {
-      var arg = name + "=";
-      var alen = arg.length;
-      var clen = document.cookie.length;
-      var i = 0;
-      while (i < clen) {
-        var j = i + alen;
-        if (document.cookie.substring(i, j) == arg)
-          return getCookieVal(j);
-        i = document.cookie.indexOf(" ", i) + 1;
-        if (i == 0) break;
-      }
-      return null;
-    }
- 
-    function SetCookie(name, value) {
-      var argv = SetCookie.arguments;
-      var argc = SetCookie.arguments.length;
-      var expires = (argc > 2) ? argv[2] : null;
-      var path = (argc > 3) ? argv[3] : null;
-      var domain = (argc > 4) ? argv[4] : null;
-      var secure = (argc > 5) ? argv[5] : false;
-      document.cookie = name + "=" + escape(value) +
-        ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-        ((path == null) ? "" : ("; path=" + path)) +
-        ((domain == null) ? "" : ("; domain=" + domain)) +
-        ((secure == true) ? "; secure" : "");
-    }
- 
-    function DeleteCookie(name) {
-      var exp = new Date();
-      exp.setTime(exp.getTime() - 1);
-      // This cookie is history
-      var cval = 0;
-      document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-    }
- 
-    //设置cookies时间,自己根据情况设置。
-    var expDays = 1;
-    var exp = new Date();
-    exp.setTime(exp.getTime() + (expDays * 24 * 60 * 60 * 1000));
- 
-    function amt() {
-      var count = GetCookie('count');
-      count = Math.max(1, Number(count) + 1);
-      SetCookie('count', count, exp);
-      return count;
-    }
- 
-    function getCookieVal(offset) {
-      var endstr = document.cookie.indexOf(";", offset);
-      if (endstr == -1) endstr = document.cookie.length;
-      return unescape(document.cookie.substring(offset, endstr));
-    }
-    // IE： 设置为浏览器首页示例
-    function sethome() {
-      var link = document.links[0];
-      if (!link) return;
-      link.style.behavior = 'url(#default#homepage)';
-      if (link.setHomePage) link.setHomePage('https://th.hnslg.com.cn');
-    }
- 
-    if (amt() == 1) {
-      alert('仅供内部交流研究，请勿用于任何商业用途！鑫总云海二开多功能版解析计费系统v4.5');
-      sethome();
-    }
-  </script>
-</head>
- 
-<body></body>
- 
-</html> -->
+				<html>
+
 
 
 					<!-- 弹窗代码结束 -->
@@ -200,7 +134,7 @@
 			var surl = iurl.substring(iurl.lastIndexOf('/'));
 
 			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
-				window.location.href = '/wap';
+				window.location.href = '../user/login';
 			} else {
 
 			}
@@ -236,7 +170,7 @@
 		//判断F12审查元素
 function fuckyou() {
 	window.close(); //关闭当前窗口(防抽)
-	window.location = "https://th.hnslg.com.cn"; //将当前窗口跳转置空白页
+	window.location = "https://ichen.ink"; //将当前窗口跳转置空白页
 }
 
 function ck() {
@@ -267,4 +201,5 @@ window.onresize = function() {
 }
 </script>-->
 
+	</body>
 </html>
