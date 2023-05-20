@@ -38,9 +38,9 @@
 						<ul class="header-links">
 							<li class="header-links-item"><a href="assets/about/jx.html">一键解析</a></li>
 							<li class="header-links-item"><a href="http://ichen.ink/vip">Web解析</a></li>
-			 				<li class="header-links-item"><a href="/">浏览器脚本</a></li>
-				 			<li class="header-links-item"><a href="">Android TV</a></li>
-				 			<li class="header-links-item"><a href="">电视TV</a></li>
+							<li class="header-links-item"><a href="/">浏览器脚本</a></li>
+							<li class="header-links-item"><a href="">Android TV</a></li>
+							<li class="header-links-item"><a href="">电视TV</a></li>
 							<li class="header-links-item"><a href="http://ichen.ink/-/">更多</a></li>
 							<li class="header-links-item"><a href="assets/about/about.html">关于本站</a></li>
 						</ul>
@@ -86,14 +86,30 @@
 									rel="nofollow">搜狐视频</a> <span>|</span><a href="//www.pptv.com"
 									rel="nofollow">PPTV</a><span>|</span><a href="//www.bilibili.com"
 									rel="nofollow">哔哩哔哩</a><span>|</span></nav>
-
+							
 							<br>
 							<!--底部一言-->
 							<div class="word" id="hitokoto">
 								<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer>
 								</script>
 							</div>
+							<!--底部一言结束-->
+							<br>
+							<!-- 访问统计部分 -->
+							<div id="counter">Loading...</div>
+							<script>
+								var counter = 0;
+								var storedCounter = localStorage.getItem('counter');
+								if (storedCounter) {
+									counter = parseInt(storedCounter);
+								}
+								counter++;
+								localStorage.setItem('counter', counter);
+								var counterElement = document.getElementById('counter');
+								counterElement.textContent = '总访问量: ' + counter;
+							</script>
 						</div>
+						<!-- 访问统计部分结束 -->
 					</footer>
 			</div>
 		</div>
