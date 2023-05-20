@@ -93,21 +93,6 @@
 							</div>
 							<!--底部一言结束-->
 							<br>
-							<!-- 访问统计部分 -->
-							<div id="counter">Loading...</div>
-							<script>
-								var counter = 0;
-								var storedCounter = localStorage.getItem('counter');
-								if (storedCounter) {
-									counter = parseInt(storedCounter);
-								}
-								counter++;
-								localStorage.setItem('counter', counter);
-								var counterElement = document.getElementById('counter');
-								counterElement.textContent = '总访问量: ' + counter;
-							</script>
-						</div>
-						<!-- 访问统计部分结束 -->
 					</footer>
 			</div>
 		</div>
