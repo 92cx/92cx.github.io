@@ -1,6 +1,7 @@
 {
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
-    "wallpaper":"https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg",
+    "wallpaper":"https://cn.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg",
+    "warningText": "公众号：第15杯可乐，获取最新接口",
     "sites":[
            {
             "key":"csp_77",
