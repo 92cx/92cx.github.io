@@ -1,18 +1,22 @@
+//      >>> ∏¸–¬ ±º‰£∫2024-02-12 22:01:16 <<<
+
+
+
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
-"wallpaper":"https://cn.bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg",
+"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
+"wallpaper":"https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg",
 "sites":[
-<<<<<<< HEAD
-{"key":"∂π∂π","name":"æ€∫œÀ—À˜","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"ÕÊ≈º∏Á∏Á","name":"ÕÊ≈º∏Á∏Á©ß4KµØƒª","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$µØ"},
+{"key":"∂π∂π","name":"◊£¥Ûº“–¬¥∫øÏ¿÷¡˙ƒÍ¥Ûº™","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"ÕÊ≈º∏Á∏Á","name":"4K©ßµØƒª","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$µØ"},
 {"key":"YGP","name":"ﬂ∂π€ºˆ”∞©ß–¬∆¨","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"ø·ø¥","name":"ø·ø¥©ßApp","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Czsapp","name":"≥ß≥§©ß÷±¡¨","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
 {"key":"Xinsj","name":" ”æı©ß÷±¡¨","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"ƒœ∑ª","name":"ƒœ∑ª©ßApp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="},
-{"key":"ø·ø¥","name":"ø·ø¥©ßApp","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"ƒœπœ","name":"ƒœπœ©ßApp","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"∆ﬂ∆ﬂ©ßApp","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"√»√◊","name":"√»√◊©ßApp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
+{"key":"¬ ¬ ","name":"¬ ¬ ©ßApp","type":3,"api":"csp_AppLd","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="},
+{"key":"√»√◊","name":"√»√◊©ßApp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 {"key":"√´¬ø","name":"√´¬ø©ß÷±¡¨","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"–°Ë÷","name":"–°Ë÷©ßApp","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"–«∆Ê","name":"–«∆Ê©ßApp","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
@@ -51,11 +55,11 @@
 {"key":"”–…˘–°Àµjs","name":"”–…˘©ß–°Àµ","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/”–…˘–°Àµ∞….js","style":{"type":"rect","ratio":1},
 "searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Aid","name":"º±æ»©ßΩÃ—ß","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"YiSo","name":"“◊À—©ßÀ—À˜","type":3,"api":"YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"Zhaozy","name":"’“◊ ‘¥©ßÀ—À˜","type":3,"api":"Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
-{"key":"PanSou","name":"≈ÃÀ—©ßÀ—À˜","type":3,"api":"PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"UpYun","name":"UpÀ—©ßÀ—À˜","type":3,"api":"UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"PanSearch","name":"≈ÃSe©ßÀ—À˜","type":3,"api":"PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"YiSo","name":"“◊À—©ßÀ—À˜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"Zhaozy","name":"’“◊ ‘¥©ßÀ—À˜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
+{"key":"PanSou","name":"≈ÃÀ—©ßÀ—À˜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"UpÀ—©ßÀ—À˜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"≈ÃSe©ßÀ—À˜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"push_agent","name":" ÷ª˙©ßÕ∆ÀÕ","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Bili","name":"ﬂŸﬂŸ©ß∫œºØ","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
@@ -77,84 +81,7 @@
 "parses":[
 {"name":"æ€∫œ","type":3,"url":"Demo"},
 {"name":"Ω‚Œˆ","type":1,"url":"http://api.888484.xyz/…Ò√ÿ∏Á∏Á/super.php?v=","ext":{"flag":["qq","Ã⁄—∂","qiyi","∞Æ∆Ê“’","∆Ê“’","youku","”≈ø·","tucheng","sohu","À—∫¸","letv","¿÷ ”","mgtv","√¢π˚","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-{"name":"√‚∑—∑÷œÌ","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","Ã⁄—∂","qiyi","∞Æ∆Ê“’","∆Ê“’","youku","”≈ø·","mgtv","√¢π˚","imgo","letv","¿÷ ”","pptv","PPTV","sohu","bilibili","ﬂŸ¡®ﬂŸ¡®","ﬂŸ¡®"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-=======
-{"key":"Ë±ÜË±Ü","name":"ËÅöÂêàÊêúÁ¥¢","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"Áé©ÂÅ∂Âì•Âì•","name":"Áé©ÂÅ∂Âì•Âì•‚îÉ4KÂºπÂπï","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$Âºπ"},
-{"key":"YGP","name":"Âè®ËßÇËçêÂΩ±‚îÉÊñ∞Áâá","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"Czsapp","name":"ÂéÇÈïø‚îÉÁõ¥Ëøû","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
-{"key":"Xinsj","name":"ËßÜËßâ‚îÉÁõ¥Ëøû","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
-{"key":"ÂçóÂùä","name":"ÂçóÂùä‚îÉApp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="},
-{"key":"ÈÖ∑Áúã","name":"ÈÖ∑Áúã‚îÉApp","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"ÂçóÁìú","name":"ÂçóÁìú‚îÉApp","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"77","name":"‰∏É‰∏É‚îÉApp","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"ËêåÁ±≥","name":"ËêåÁ±≥‚îÉApp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
-{"key":"ÊØõÈ©¥","name":"ÊØõÈ©¥‚îÉÁõ¥Ëøû","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-{"key":"Â∞èÊüö","name":"Â∞èÊüö‚îÉApp","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
-{"key":"ÊòüÂ•á","name":"ÊòüÂ•á‚îÉApp","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
-{"key":"‰∏ÄËµ∑Áúã","name":"‰∏ÄËµ∑‚îÉApp","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"DiDuan","name":"‰ΩéÁ´Ø‚îÉÁõ¥Ëøû","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Nmys","name":"ÂÜúÊ∞ë‚îÉÁõ¥Ëøû","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
-{"key":"csp_Bttoo","name":"ÊØîÁâπ‚îÉÁõ¥Ëøû","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Lib","name":"Âà©Êí≠‚îÉÁõ¥Ëøû","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.la/"},
-{"key":"Auete","name":"Â••Áâπ‚îÉÁõ¥Ëøû","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
-{"key":"csp_SP33","name":"‰∏â‰∏â‚îÉËß£Êûê","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"Ë¥±Ë¥±","name":"Ë¥±Ë¥±‚îÉp2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
-{"key":"Êñ∞6V","name":"Êñ∞6V‚îÉÁ£ÅÂäõ","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
-{"key":"csp_Dm84","name":"Âä®Êº´‚îÉÂ∑¥Â£´","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ying","name":"Ê®±Ëä±‚îÉÂä®Êº´","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ysj","name":"ÂºÇÁïå‚îÉÂä®Êº´","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Anime1","name":"Êó•Êú¨‚îÉÂä®Êº´","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"88js","name":"88‚îÉÁúãÁêÉ","type":3,"api":"csp_Kanqiu","style":{"type":"list"},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"Jrsjs","name":"Jrs‚îÉÁêÉËø∑","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"310js","name":"310‚îÉÁúãÁêÉ","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/310Áõ¥Êí≠.js","style":{"type":"list"},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"‰ºÅÈπÖ‰ΩìËÇ≤xp","name":"ÈπÖÈπÖ‚îÉ‰ΩìËÇ≤","type":3,"api":"csp_XPath","style":{"type":"list"},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/‰ºÅÈπÖÁõ¥Êí≠.json"},
-{"key":"ÈÖ∑Â•ájs","name":"ÈÖ∑Â•á‚îÉMV","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/ÈÖ∑Â•áMV.js","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"MTV","name":"ÊòéÊòü‚îÉMV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"},
-{"key":"Áü≠Ââß","name":"Áü≠Ââß‚îÉÂú®Á∫ø","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://duanju.one"},
-{"key":"csp_Yj1211","name":"ÁΩëÁ∫¢‚îÉÁõ¥Êí≠","type":3,"api":"csp_Yj1211","playerType":"1","searchable":0,"quickSearch":1,"changeable":0},
-{"key":"ËôéÁâôÁõ¥Êí≠js","name":"ËôéÁâô‚îÉÁõ¥Êí≠","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js","style":{"type":"rect","ratio":1.755},
-"playerType":"1","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"ÊñóÈ±ºjs","name":"ÊñóÈ±º‚îÉÁõ¥Êí≠","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/ÊñóÈ±ºÁõ¥Êí≠.js","style":{"type":"rect","ratio":1.755},
-"playerType":"1","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"ËÅöÁü≠ËßÜÈ¢ëjs","name":"ËÅöÁü≠‚îÉËßÜÈ¢ë","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/Áü≠ËßÜÈ¢ë.js","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"ÊúâÂ£∞Â∞èËØ¥js","name":"ÊúâÂ£∞‚îÉÂ∞èËØ¥","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/ÊúâÂ£∞Â∞èËØ¥Âêß.js","style":{"type":"rect","ratio":1},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"Aid","name":"ÊÄ•Êïë‚îÉÊïôÂ≠¶","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"YiSo","name":"ÊòìÊêú‚îÉÊêúÁ¥¢","type":3,"api":"YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"Zhaozy","name":"ÊâæËµÑÊ∫ê‚îÉÊêúÁ¥¢","type":3,"api":"Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
-{"key":"PanSou","name":"ÁõòÊêú‚îÉÊêúÁ¥¢","type":3,"api":"PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"UpYun","name":"UpÊêú‚îÉÊêúÁ¥¢","type":3,"api":"UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"PanSearch","name":"ÁõòSe‚îÉÊêúÁ¥¢","type":3,"api":"PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"push_agent","name":"ÊâãÊú∫‚îÉÊé®ÈÄÅ","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"Bili","name":"ÂìîÂìî‚îÉÂêàÈõÜ","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
-{"key":"Biliych","name":"ÂìîÂìî‚îÉÊ≠åÊõ≤","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
-{"key":"dr_ÂÖîÂ∞èË¥ù","name":"ÂÑøÁ´•‚îÉÂêØËíô","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"Â∞ëÂÑøÊïôËÇ≤","name":"Â∞ëÂÑø‚îÉÊïôËÇ≤","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/Â∞ëÂÑøÊïôËÇ≤.json"},
-{"key":"Â∞èÂ≠¶ËØæÂ†Ç","name":"Â∞èÂ≠¶‚îÉËØæÂ†Ç","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/Â∞èÂ≠¶ËØæÂ†Ç.json"},
-{"key":"Âàù‰∏≠ËØæÂ†Ç","name":"Âàù‰∏≠‚îÉËØæÂ†Ç","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/Âàù‰∏≠ËØæÂ†Ç.json"},
-{"key":"È´ò‰∏≠ÊïôËÇ≤","name":"È´ò‰∏≠‚îÉËØæÂ†Ç","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/È´ò‰∏≠ËØæÂ†Ç.json"},
-{"key":"fan","name":"ÂØºËà™https://ichen.ink","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"cc","name":"ËØ∑ÂãøÁõ∏‰ø°ËßÜÈ¢ë‰∏≠ÂπøÂëä","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"changeable":1}
-],
-"parses":[
-{"name":"ËÅöÂêà","type":3,"url":"Demo"},
-{"name":"Ëß£Êûê","type":1,"url":"http://api.888484.xyz/Á•ûÁßòÂì•Âì•/super.php?v=","ext":{"flag":["qq","ËÖæËÆØ","qiyi","Áà±Â•áËâ∫","Â•áËâ∫","youku","‰ºòÈÖ∑","tucheng","sohu","ÊêúÁãê","letv","‰πêËßÜ","mgtv","ËäíÊûú","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-{"name":"ÂÖçË¥πÂàÜ‰∫´","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","ËÖæËÆØ","qiyi","Áà±Â•áËâ∫","Â•áËâ∫","youku","‰ºòÈÖ∑","mgtv","ËäíÊûú","imgo","letv","‰πêËßÜ","pptv","PPTV","sohu","bilibili","ÂìîÂì©ÂìîÂì©","ÂìîÂì©"],"header":{"User-Agent":"okhttp/4.1.0"}}}
->>>>>>> 9ae478b0b9eac4193ebb1722ff2eaa9b3debc222
+{"name":"2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","Ã⁄—∂","qiyi","∞Æ∆Ê“’","∆Ê“’","youku","”≈ø·","mgtv","√¢π˚","imgo","letv","¿÷ ”","pptv","PPTV","sohu","bilibili","ﬂŸ¡®ﬂŸ¡®","ﬂŸ¡®"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
@@ -166,26 +93,18 @@
 "rules":[
 {"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
 {"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
-{"name":"sn","hosts":["suonizy"],"regex":["16.333333","15.266667"]},
+{"name":"sn","hosts":["suonizy"],"regex":["#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","15.1666","15.2666","16.3333","15.266667"]},
 {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"lz","hosts":["lz"],"regex":["18.5333","19.52"]},
-{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08","20.52"]},
+{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08","20.52","25.1"]},
 {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-<<<<<<< HEAD
 {"name":"cl","hosts":["magnet"],"regex":["◊Ó–¬","÷±≤•","∏¸–¬"]}
-=======
-{"name":"cl","hosts":["magnet"],"regex":["ÊúÄÊñ∞","Áõ¥Êí≠","Êõ¥Êñ∞"]}
->>>>>>> 9ae478b0b9eac4193ebb1722ff2eaa9b3debc222
 ],
 "lives":[
-{"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"SAO0","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9ae478b0b9eac4193ebb1722ff2eaa9b3debc222
